@@ -1,4 +1,4 @@
-print("Welcome to the SuperPet Name Generator.")
+print("Welcome to the SuperPet Name Generator!")
 
 # Pets Input Information 
 PetsFirstName = input("Enter your pet's first name?: ")
